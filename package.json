@@ -1,0 +1,2 @@
+ { "name": "kids-stories-backend", "version": "1.0.0", "description": "Backend API for Kids Stories with PostgreSQL", "main": "index.js", "scripts": { "start": "node index.js" }, "keywords": ["api", "comments", "kids", "stories", "postgresql"], "author": "Shahreqesse", "license": "MIT", "dependencies": { "express": "^4.18.2", "cors": "^2.8.5", "pg": "^8.11.3", "dotenv": "^16.3.1" } }
+    
