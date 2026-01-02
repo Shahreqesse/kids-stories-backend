@@ -1,2 +1,0 @@
-{ "name": "kids-stories-backend", "version": "1.0.0", "description": "Backend API for Kids Stories Comments System", "main": "index.js", "scripts": { "start": "node index.js" }, "keywords": ["api", "comments", "kids", "stories"], "author": "Shahreqesse", "license": "MIT", "dependencies": { "express": "^4.18.2", "cors": "^2.8.5", "@aws-sdk/client-dynamodb": "^3.400.0", "@aws-sdk/lib-dynamodb": "^3.400.0" } }
-    
